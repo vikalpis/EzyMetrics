@@ -26,9 +26,9 @@ Before you begin, ensure you have the following installed:
 2. Install dependencies:npm install @radix-ui/react-dialog @radix-ui/react-select lucide-react class-variance-authority tailwindcss chart.js
 
 ## Running the Application
--npm i
--cd (folder)
--npm run dev
+1,npm i
+2.cd (folder)
+3.pm run dev
 
 ## Technologies Used
 
