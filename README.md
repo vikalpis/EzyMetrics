@@ -50,12 +50,6 @@ Before you begin, ensure you have the following installed:
 - To change the chart types or data, update the chart configurations in `Dashboard.jsx` and `Analytics.jsx`.
 - To modify the lead management system, update the `Leads.jsx` component.
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
