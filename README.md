@@ -58,6 +58,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Support
 
-For support, please email support@ezymetrics.com or open an issue in the GitHub repository.
