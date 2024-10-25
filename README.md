@@ -37,7 +37,7 @@ Before you begin, ensure you have the following installed:
 
 ## Setup
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/vikalpis/EzyMetrics.git
 ## Running the Application
 
 To start the development server: 'npm run dev'
